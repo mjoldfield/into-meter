@@ -1,4 +1,5 @@
-# into-meter
+# Introduction
+
 Design files for an intervalometer. See http://www.mjoldfield.com/atelier/2011/08/intervalometer.html
 
 # Tools
